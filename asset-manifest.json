@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/clickcounter/static/js/main.3f9c38d0.js",
+    "index.html": "/clickcounter/index.html",
+    "main.3f9c38d0.js.map": "/clickcounter/static/js/main.3f9c38d0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3f9c38d0.js"
+  ]
+}
